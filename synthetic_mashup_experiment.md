@@ -85,3 +85,6 @@ spectral_flatness             0.0036     0.0530    +1380.9%
 2. Test data has ~10-20% higher spectral features (noise contribution)
 3. Noise intensity range of 0.01-0.15 seems appropriate
 4. Should apply aggressive noise augmentation during training
+
+   <img width="717" height="318" alt="image" src="https://github.com/user-attachments/assets/d19e9652-cb31-4d2d-b913-a8831f974a9b" />
+
